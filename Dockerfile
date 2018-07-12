@@ -1,6 +1,6 @@
 FROM alpine:3.7
 
-LABEL maintainer="NGINX Docker Maintainers <cwshi@mytijian.com>"
+LABEL maintainer="NGINX Docker Maintainers <sqcunwei@163.com>"
 
 ENV NGINX_VERSION 1.12.0
 ENV LuaJIT_VERSION 2.0.5
